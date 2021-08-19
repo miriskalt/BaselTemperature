@@ -8,7 +8,7 @@ Period:  Bool (Label for prediction and indicator for start of new cycle)
 Libido: Bool (Indicator for increased experienced libido)  
 Pain: String (partially only noted what hurts, later ranked with values {1,2,3}.)  
 Chocolate: Bool (Cravings indicated)  
-Sad: Bool (Indicator for experienced inhanced emotions)  
+Sad: Bool (Indicator for experienced enhanced emotions)  
 Kommentar: String (Including potential influences on the basal temperature, for example due to climate or other cuircumstances)  
 Energie: Bool (Marking days with increased physical power / motivation)  
 
