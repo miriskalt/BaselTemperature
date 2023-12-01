@@ -18,4 +18,4 @@ Timespan: Oktober 2020 to Mai 2021
 The used data was collected personally.  
 Goal of this is to better understand the periodicy of certain symptoms in order to predict these.  
 
-A very important factor is here the increase of chocolate needs and the neccessary stocking beforehand to avoid dangerous chocolate deficiencies. 
+The main objective is to predict the increase of chocolate needs and the timing of stocking up beforehand to avoid dangerous chocolate deficiencies. 
